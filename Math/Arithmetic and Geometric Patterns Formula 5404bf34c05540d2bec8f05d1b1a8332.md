@@ -1,5 +1,5 @@
-<script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
+
+
 
 # Arithmetic and Geometric Patterns Formula
 
@@ -14,15 +14,15 @@ Updated: Sep 10, 2020 9:01 PM
 
 ---
 
-$$Un=U\scriptsize1\normalsize+(n-1)d$$
+<img src="https://render.githubusercontent.com/render/math?math=Un=U\scriptsize1 \normalsize +(n-1)">
 
 ### **Formulas for Sum**
 
 ---
 
-$$S\scriptsize n \normalsize = \frac{n}{2}(u\scriptsize1 \normalsize+u\scriptsize n\normalsize)$$
+<img src="https://render.githubusercontent.com/render/math?math=Un\scriptsize n \normalsize = \frac{n}{2}(u\scriptsize1 \normalsize+u\scriptsize n\normalsize)">
 
-$$Sn=\frac {n}{2}(2u\scriptsize1 \normalsize+(n-1)d)$$
+<img src="https://render.githubusercontent.com/render/math?math=n=\frac {n}{2}(2u\scriptsize1 \normalsize+(n-1)d)">"
 
 An example of which is:
 
