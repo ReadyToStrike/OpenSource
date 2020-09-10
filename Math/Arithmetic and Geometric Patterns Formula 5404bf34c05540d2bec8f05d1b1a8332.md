@@ -1,3 +1,6 @@
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
+
 # Arithmetic and Geometric Patterns Formula
 
 Created: Sep 1, 2020 12:05 PM
